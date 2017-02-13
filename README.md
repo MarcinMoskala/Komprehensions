@@ -2,6 +2,8 @@
 
 RxComprehensions is a library to reduce boilerplate and simplify your call chains.
 
+[![](https://jitpack.io/v/MarcinMoskala/Komprehensions.svg)](https://jitpack.io/#MarcinMoskala/Komprehensions)
+
 ## Rationale
 
 As your code starts getting more and more functional, you find that you want to chain multiple statements by helpers like `let`. This causes indentation levels to go quite high, and would often require that you split the code in several methods just to keep it readable.
